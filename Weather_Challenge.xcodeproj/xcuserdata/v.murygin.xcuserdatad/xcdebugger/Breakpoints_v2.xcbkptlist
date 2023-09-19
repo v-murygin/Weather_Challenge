@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "971BAC7E-84D2-4861-8E18-58A69EF7D09D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "406D6875-26D1-4974-B875-008236115130"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weather_Challenge/Utils/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "performRequest(URL:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "406D6875-26D1-4974-B875-008236115130 - 62e7e81ab00aec05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Weather_Challenge.NetworkService.performRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(URL: Foundation.URL) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Utils/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "406D6875-26D1-4974-B875-008236115130 - 161b2fbcee908d9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Weather_Challenge.NetworkService.performRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(URL: Foundation.URL) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Utils/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "406D6875-26D1-4974-B875-008236115130 - 1d5fd720d4342983"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Weather_Challenge.NetworkService.performRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(URL: Foundation.URL) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Utils/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "406D6875-26D1-4974-B875-008236115130 - 3a9bd1a5c64907c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Weather_Challenge.NetworkService.performRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(URL: Foundation.URL) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Utils/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B08C802-F6C5-4F2D-BA71-07A3E542047F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weather_Challenge/Utils/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "performRequest(URL:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "480E32C0-569F-4F0A-9F87-592F86968933"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weather_Challenge/Utils/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchWeatherByCoords(lat:lon:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "480E32C0-569F-4F0A-9F87-592F86968933 - e16fa3902a5df907"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Weather_Challenge.NetworkService.fetchWeatherByCoords(lat: Swift.Double, lon: Swift.Double) async throws -&gt; Weather_Challenge.WeatherResponse"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Utils/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1024">
+               </Location>
+               <Location
+                  uuid = "480E32C0-569F-4F0A-9F87-592F86968933 - d36c7d77965aee12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Weather_Challenge.NetworkService.fetchWeatherByCoords(lat: Swift.Double, lon: Swift.Double) async throws -&gt; Weather_Challenge.WeatherResponse"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Utils/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "480E32C0-569F-4F0A-9F87-592F86968933 - e3a629777f60485"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Weather_Challenge.NetworkService.fetchWeatherByCoords(lat: Swift.Double, lon: Swift.Double) async throws -&gt; Weather_Challenge.WeatherResponse"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Utils/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "480E32C0-569F-4F0A-9F87-592F86968933 - e3a629777f60501"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Weather_Challenge.NetworkService.fetchWeatherByCoords(lat: Swift.Double, lon: Swift.Double) async throws -&gt; Weather_Challenge.WeatherResponse"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Utils/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "480E32C0-569F-4F0A-9F87-592F86968933 - 64604d19e2c3e684"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Weather_Challenge.NetworkService.fetchWeatherByCoords(lat: Swift.Double, lon: Swift.Double) async throws -&gt; Weather_Challenge.WeatherResponse"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Utils/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "480E32C0-569F-4F0A-9F87-592F86968933 - 64604d19e2c3e700"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Weather_Challenge.NetworkService.fetchWeatherByCoords(lat: Swift.Double, lon: Swift.Double) async throws -&gt; Weather_Challenge.WeatherResponse"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Utils/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FCA589B2-D4A0-4C9E-950F-6F8C66B40EAE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weather_Challenge/Presentation/Home/ViewModels/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "getWeather(lat:lon:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FCA589B2-D4A0-4C9E-950F-6F8C66B40EAE - 22629b6b58298830"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Weather_Challenge.HomeViewModel.getWeather(lat: Swift.Optional&lt;Swift.Double&gt;, lon: Swift.Optional&lt;Swift.Double&gt;) async -&gt; ()"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Presentation/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "FCA589B2-D4A0-4C9E-950F-6F8C66B40EAE - 219348261a1e53ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Weather_Challenge.HomeViewModel.getWeather(lat: Swift.Optional&lt;Swift.Double&gt;, lon: Swift.Optional&lt;Swift.Double&gt;) async -&gt; ()"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Presentation/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "FCA589B2-D4A0-4C9E-950F-6F8C66B40EAE - 8f9bc50445ba0dd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Weather_Challenge.HomeViewModel.getWeather(lat: Swift.Optional&lt;Swift.Double&gt;, lon: Swift.Optional&lt;Swift.Double&gt;) async -&gt; ()"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Presentation/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "FCA589B2-D4A0-4C9E-950F-6F8C66B40EAE - 9244a08ac0d7d7ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for Weather_Challenge.HomeViewModel.getWeather(lat: Swift.Optional&lt;Swift.Double&gt;, lon: Swift.Optional&lt;Swift.Double&gt;) async -&gt; ()"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Presentation/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "869CC393-CA0D-4916-A803-5068EDFC203C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weather_Challenge/Presentation/Home/ViewModels/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "getWeather(lat:lon:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "869CC393-CA0D-4916-A803-5068EDFC203C - 8f9bc50445ba0d7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Weather_Challenge.HomeViewModel.getWeather(lat: Swift.Optional&lt;Swift.Double&gt;, lon: Swift.Optional&lt;Swift.Double&gt;) async -&gt; ()"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Presentation/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "744">
+               </Location>
+               <Location
+                  uuid = "869CC393-CA0D-4916-A803-5068EDFC203C - 6e2464975d21e74c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) await resume partial function for Weather_Challenge.HomeViewModel.getWeather(lat: Swift.Optional&lt;Swift.Double&gt;, lon: Swift.Optional&lt;Swift.Double&gt;) async -&gt; ()"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Presentation/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "869CC393-CA0D-4916-A803-5068EDFC203C - f8b307dd410c9151"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for Weather_Challenge.HomeViewModel.getWeather(lat: Swift.Optional&lt;Swift.Double&gt;, lon: Swift.Optional&lt;Swift.Double&gt;) async -&gt; ()"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Presentation/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "869CC393-CA0D-4916-A803-5068EDFC203C - 25e840764e611533"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for Weather_Challenge.HomeViewModel.getWeather(lat: Swift.Optional&lt;Swift.Double&gt;, lon: Swift.Optional&lt;Swift.Double&gt;) async -&gt; ()"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Presentation/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1EC731B2-CF73-4249-8968-25E4E555A1D9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weather_Challenge/Presentation/Home/ViewModels/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "getWeather(lat:lon:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "681245E4-A0C3-4B19-BADB-77246C23AB49"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weather_Challenge/Utils/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "fetchWeatherByZip(zipCode:countryCode:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "681245E4-A0C3-4B19-BADB-77246C23AB49 - c7f32b1ffc8e485c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Weather_Challenge.NetworkService.fetchWeatherByZip(zipCode: Swift.String, countryCode: Swift.Optional&lt;Swift.String&gt;) async throws -&gt; Weather_Challenge.GeocodingZipNetwork"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Utils/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "1892">
+               </Location>
+               <Location
+                  uuid = "681245E4-A0C3-4B19-BADB-77246C23AB49 - e8c7199e06ad8212"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Weather_Challenge.NetworkService.fetchWeatherByZip(zipCode: Swift.String, countryCode: Swift.Optional&lt;Swift.String&gt;) async throws -&gt; Weather_Challenge.GeocodingZipNetwork"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Utils/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "681245E4-A0C3-4B19-BADB-77246C23AB49 - e09db7e1b6608fda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Weather_Challenge.NetworkService.fetchWeatherByZip(zipCode: Swift.String, countryCode: Swift.Optional&lt;Swift.String&gt;) async throws -&gt; Weather_Challenge.GeocodingZipNetwork"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Utils/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "681245E4-A0C3-4B19-BADB-77246C23AB49 - e09db7e1b6608c5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Weather_Challenge.NetworkService.fetchWeatherByZip(zipCode: Swift.String, countryCode: Swift.Optional&lt;Swift.String&gt;) async throws -&gt; Weather_Challenge.GeocodingZipNetwork"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Utils/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "681245E4-A0C3-4B19-BADB-77246C23AB49 - ed3280006d4871dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Weather_Challenge.NetworkService.fetchWeatherByZip(zipCode: Swift.String, countryCode: Swift.Optional&lt;Swift.String&gt;) async throws -&gt; Weather_Challenge.GeocodingZipNetwork"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Utils/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "681245E4-A0C3-4B19-BADB-77246C23AB49 - ed3280006d487259"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Weather_Challenge.NetworkService.fetchWeatherByZip(zipCode: Swift.String, countryCode: Swift.Optional&lt;Swift.String&gt;) async throws -&gt; Weather_Challenge.GeocodingZipNetwork"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Utils/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65E67BBE-5377-4C9E-AB74-B97BF6A97419"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weather_Challenge/Presentation/Description/ViewModels/DescriptionViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "fetchData(lat:lon:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "65E67BBE-5377-4C9E-AB74-B97BF6A97419 - e6e1dd221a063b8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Weather_Challenge.DescriptionViewModel.fetchData(lat: Swift.Double, lon: Swift.Double) async -&gt; ()"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Presentation/Description/ViewModels/DescriptionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "372">
+               </Location>
+               <Location
+                  uuid = "65E67BBE-5377-4C9E-AB74-B97BF6A97419 - e6e1dd221a063b8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Weather_Challenge.DescriptionViewModel.fetchData(lat: Swift.Double, lon: Swift.Double) async -&gt; ()"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Presentation/Description/ViewModels/DescriptionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "868">
+               </Location>
+               <Location
+                  uuid = "65E67BBE-5377-4C9E-AB74-B97BF6A97419 - b2afa4be0d7f6795"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for Weather_Challenge.DescriptionViewModel.fetchData(lat: Swift.Double, lon: Swift.Double) async -&gt; ()"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Presentation/Description/ViewModels/DescriptionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "65E67BBE-5377-4C9E-AB74-B97BF6A97419 - 7e94320af050a397"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for Weather_Challenge.DescriptionViewModel.fetchData(lat: Swift.Double, lon: Swift.Double) async -&gt; ()"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Presentation/Description/ViewModels/DescriptionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "548">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "095F3929-3D45-49E7-BBFC-FA6F7447D29F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weather_Challenge/Utils/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "fetchWeatherByZip(zipCode:countryCode:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "095F3929-3D45-49E7-BBFC-FA6F7447D29F - c7f32b1ffc8e485c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Weather_Challenge.NetworkService.fetchWeatherByZip(zipCode: Swift.String, countryCode: Swift.Optional&lt;Swift.String&gt;) async throws -&gt; Weather_Challenge.GeocodingZipNetwork"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Utils/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "1892">
+               </Location>
+               <Location
+                  uuid = "095F3929-3D45-49E7-BBFC-FA6F7447D29F - e8c7199e06ad8212"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Weather_Challenge.NetworkService.fetchWeatherByZip(zipCode: Swift.String, countryCode: Swift.Optional&lt;Swift.String&gt;) async throws -&gt; Weather_Challenge.GeocodingZipNetwork"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Utils/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "095F3929-3D45-49E7-BBFC-FA6F7447D29F - e09db7e1b6608fda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Weather_Challenge.NetworkService.fetchWeatherByZip(zipCode: Swift.String, countryCode: Swift.Optional&lt;Swift.String&gt;) async throws -&gt; Weather_Challenge.GeocodingZipNetwork"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Utils/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "095F3929-3D45-49E7-BBFC-FA6F7447D29F - e09db7e1b6608c5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Weather_Challenge.NetworkService.fetchWeatherByZip(zipCode: Swift.String, countryCode: Swift.Optional&lt;Swift.String&gt;) async throws -&gt; Weather_Challenge.GeocodingZipNetwork"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Utils/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "095F3929-3D45-49E7-BBFC-FA6F7447D29F - ed3280006d4871dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Weather_Challenge.NetworkService.fetchWeatherByZip(zipCode: Swift.String, countryCode: Swift.Optional&lt;Swift.String&gt;) async throws -&gt; Weather_Challenge.GeocodingZipNetwork"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Utils/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "095F3929-3D45-49E7-BBFC-FA6F7447D29F - ed3280006d487259"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Weather_Challenge.NetworkService.fetchWeatherByZip(zipCode: Swift.String, countryCode: Swift.Optional&lt;Swift.String&gt;) async throws -&gt; Weather_Challenge.GeocodingZipNetwork"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Utils/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A299FF3-5487-4BD2-9EFB-62CA37D09670"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weather_Challenge/Presentation/Home/View/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7A299FF3-5487-4BD2-9EFB-62CA37D09670 - 5a84c58d09cdca14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Weather_Challenge.HomeViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Presentation/Home/View/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "7A299FF3-5487-4BD2-9EFB-62CA37D09670 - 1f01093302f207f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in Weather_Challenge.HomeViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Presentation/Home/View/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "7A299FF3-5487-4BD2-9EFB-62CA37D09670 - 670666f22e030e16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Weather_Challenge.HomeViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Presentation/Home/View/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "7A299FF3-5487-4BD2-9EFB-62CA37D09670 - 5a84c58d09cdca52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Weather_Challenge.HomeViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Presentation/Home/View/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "7A299FF3-5487-4BD2-9EFB-62CA37D09670 - 1f01093302f2039"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in Weather_Challenge.HomeViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Presentation/Home/View/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "7A299FF3-5487-4BD2-9EFB-62CA37D09670 - 670666f22e030e50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Weather_Challenge.HomeViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Presentation/Home/View/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B2F0E76-5611-45E2-9800-5372E769085A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weather_Challenge/Presentation/Home/ViewModels/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9B2F0E76-5611-45E2-9800-5372E769085A - e21cd5e98a4da67c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;__C.CLLocation&gt;) -&gt; () in Weather_Challenge.HomeViewModel.init() -&gt; Weather_Challenge.HomeViewModel"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Presentation/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "9B2F0E76-5611-45E2-9800-5372E769085A - df881d55992279fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;__C.CLLocation&gt;) -&gt; () in Weather_Challenge.HomeViewModel.init() -&gt; Weather_Challenge.HomeViewModel"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Presentation/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "9B2F0E76-5611-45E2-9800-5372E769085A - e21cd5e98a4da1d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;__C.CLLocation&gt;) -&gt; () in Weather_Challenge.HomeViewModel.init() -&gt; Weather_Challenge.HomeViewModel"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Presentation/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "9B2F0E76-5611-45E2-9800-5372E769085A - df881d5599227e53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;__C.CLLocation&gt;) -&gt; () in Weather_Challenge.HomeViewModel.init() -&gt; Weather_Challenge.HomeViewModel"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Presentation/Home/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9921049-E42A-4422-9A8D-5EED8D38A510"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weather_Challenge/Presentation/Home/View/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "195"
+            endingLineNumber = "195"
+            landmarkName = "didTapGeoButton()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B9921049-E42A-4422-9A8D-5EED8D38A510 - 41224582fcd4a55d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weather_Challenge.HomeViewController.didTapGeoButton() -&gt; ()"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Presentation/Home/View/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "B9921049-E42A-4422-9A8D-5EED8D38A510 - 41224582fcd4a59b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weather_Challenge.HomeViewController.didTapGeoButton() -&gt; ()"
+                  moduleName = "Weather_Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v.murygin/Desktop/Git%20projects/Weather_Challenge/Weather_Challenge/Presentation/Home/View/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C64D6010-EC2A-417D-A817-4D354532AC82"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weather_Challenge/Utils/Location/LocationManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "locationManager(_:didUpdateLocations:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C6668C6-F339-48A1-A0E1-CE6FA840C758"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weather_Challenge/Utils/Location/LocationManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "locationManager(_:didFailWithError:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
